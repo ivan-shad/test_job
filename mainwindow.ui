@@ -18,7 +18,7 @@
     <item>
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>Hello Jenkins! Hi git_hub</string>
+       <string>Hello World!</string>
       </property>
      </widget>
     </item>
